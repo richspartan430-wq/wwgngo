@@ -1,0 +1,15 @@
+{
+  "name": "wwf-pseo-engine",
+  "version": "1.0.0",
+  "description": "Programmatic SEO Content Generator for Waste Pickers Welfare Foundation",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js",
+    "generate:glossary": "node generate.js --playbook glossary",
+    "generate:locations": "node generate.js --playbook locations",
+    "generate:personas": "node generate.js --playbook personas",
+    "validate": "node generate.js --validate-only"
+  },
+  "author": "WWF NGO",
+  "license": "ISC"
+}

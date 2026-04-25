@@ -1,0 +1,11 @@
+# Robots.txt for Waste Pickers Welfare Foundation
+# https://wwfngo.org
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://wwfngo.org/sitemap.xml
+
+# Disallow internal/asset directories from indexing
+Disallow: /assets/*.pdf

@@ -1,0 +1,252 @@
+{
+  "terms": [
+    {
+      "term": "Waste Picker",
+      "slug": "waste-picker",
+      "definition_short": "A person who collects recyclable materials from streets, landfills, and waste bins for their livelihood.",
+      "definition_detailed": "Waste pickers, also known as ragpickers or informal recyclers, are individuals who manually collect, sort, and sell recyclable materials from streets, landfills, dumpsites, and waste bins. They form the backbone of the informal waste management sector in India, recovering an estimated 20% of waste generated in urban areas. Despite their crucial role in waste management and environmental sustainability, waste pickers face extreme poverty, social stigma, health hazards, and lack of access to basic services like healthcare and education. India has an estimated 1.5 to 4 million waste pickers, with significant populations in Delhi NCR, Mumbai, Bangalore, and other major cities. Organizations like the Waste Pickers Welfare Foundation work to provide these communities with dignity, rights, education, and healthcare access.",
+      "related_terms": ["ragpicker", "informal-recycler", "solid-waste-management", "waste-segregation"],
+      "category": "core-concepts"
+    },
+    {
+      "term": "Ragpicker",
+      "slug": "ragpicker",
+      "definition_short": "A colloquial term for a waste picker — someone who collects discarded materials from waste for resale and recycling.",
+      "definition_detailed": "Ragpicker is a commonly used term in India referring to individuals who collect rags, paper, plastic, metal, and other recyclable materials from rubbish heaps and streets. The term originates from the historical practice of collecting discarded rags for paper-making and textile recycling. While widely used, many advocacy groups prefer the term 'waste picker' as it carries less stigma and better represents the dignified work these individuals perform. Ragpickers are predominantly from marginalized communities, including Dalits and migrant laborers. They work without any formal employment contracts, safety equipment, or social security benefits. Children of ragpicker families are especially vulnerable, often dropping out of school to supplement family income. Over the past two decades, organizations and government initiatives have sought to formalize the sector and provide ragpickers with identity cards, health insurance, and better working conditions.",
+      "related_terms": ["waste-picker", "informal-economy", "waste-segregation", "child-labor"],
+      "category": "core-concepts"
+    },
+    {
+      "term": "Solid Waste Management",
+      "slug": "solid-waste-management",
+      "definition_short": "The systematic collection, transportation, treatment, and disposal of solid waste in urban and rural areas.",
+      "definition_detailed": "Solid Waste Management (SWM) refers to the organized process of generation, collection, transportation, treatment, and safe disposal of solid waste. In India, SWM is governed by the Solid Waste Management Rules, 2016, which mandate source segregation, door-to-door collection, and scientific processing of waste. Indian cities generate approximately 62 million tonnes of municipal solid waste annually, with Delhi alone producing about 11,000 tonnes per day. Waste pickers play an indispensable role in the SWM ecosystem by recovering an estimated 15-20% of total waste for recycling, saving municipalities billions in waste processing costs annually. Effective SWM involves a hierarchy of practices: reduce, reuse, recycle, recover energy, and finally, safe disposal. The Swachh Bharat Mission has increased focus on waste management, leading to improved infrastructure and policies. However, integration of the informal sector, particularly waste pickers, into formal SWM systems remains a critical challenge that organizations like the Waste Pickers Welfare Foundation advocate for.",
+      "related_terms": ["waste-picker", "swachh-bharat", "recycling", "waste-segregation"],
+      "category": "waste-management"
+    },
+    {
+      "term": "Self-Help Group",
+      "slug": "self-help-group",
+      "definition_short": "A small group of 10-20 individuals, usually women, who pool savings and provide micro-loans to members.",
+      "definition_detailed": "A Self-Help Group (SHG) is a community-based organization typically comprising 10 to 20 members from similar socio-economic backgrounds who come together for mutual support and economic empowerment. SHGs are a cornerstone of India's microfinance and women's empowerment strategy, with over 120 lakh SHGs operating across the country under programs like the National Rural Livelihoods Mission (NRLM). Members regularly save small amounts, pool their resources, and provide interest-free or low-interest loans to each other. In waste picker communities, SHGs have proven transformative — enabling women to start small businesses, escape exploitative moneylenders, build financial literacy, and gain collective bargaining power. The Waste Pickers Welfare Foundation operates SHGs under the District Urban Development Agency (DUDA) in Ghaziabad, with over 150 women participating. SHGs also serve as platforms for rights awareness, health education, and government scheme enrollment.",
+      "related_terms": ["women-empowerment", "microfinance", "nrlm", "community-development"],
+      "category": "programs"
+    },
+    {
+      "term": "80G Certificate",
+      "slug": "80g-certificate",
+      "definition_short": "An Income Tax Act certificate that allows donors to claim tax deductions on donations made to registered NGOs.",
+      "definition_detailed": "An 80G Certificate is issued by the Income Tax Department of India under Section 80G of the Income Tax Act, 1961. It allows nonprofit organizations to offer tax deduction benefits to their donors. When an individual or corporation donates to an 80G-certified organization, they can claim a deduction of 50% or 100% of the donated amount from their taxable income, depending on the organization's category. For an NGO to obtain 80G registration, it must be registered as a trust or society, have a valid PAN, maintain proper accounts audited annually, and utilize at least 85% of its income for charitable purposes. The 80G certification significantly boosts donor confidence and encourages charitable giving. The Waste Pickers Welfare Foundation holds 80G certification (Certificate No. AAATW4653R24DL02), meaning all donations to the Foundation qualify for tax deduction under this section.",
+      "related_terms": ["12a-certificate", "donation", "income-tax", "csr"],
+      "category": "legal"
+    },
+    {
+      "term": "12A Certificate",
+      "slug": "12a-certificate",
+      "definition_short": "A registration under the Income Tax Act that exempts a nonprofit organization from paying income tax on its surplus.",
+      "definition_detailed": "A 12A Certificate is a registration granted to charitable trusts and nonprofit organizations under Section 12A of the Income Tax Act, 1961. This registration exempts the organization from paying income tax on its receipts and income, provided the income is applied for charitable purposes. Without 12A registration, an NGO's surplus income would be subject to regular income tax. To obtain 12A registration, an organization must submit its trust deed, registration certificate, audited financial statements, and details of charitable activities to the Commissioner of Income Tax. The registration is initially provisional for 5 years and must be renewed. The Waste Pickers Welfare Foundation holds 12A registration (Certificate No. AAATW4653R24DL01), which enables it to receive tax-exempt income and channel all resources toward its charitable programs in education, healthcare, and community development.",
+      "related_terms": ["80g-certificate", "income-tax", "trust-registration", "nonprofit"],
+      "category": "legal"
+    },
+    {
+      "term": "CSR",
+      "slug": "csr",
+      "definition_short": "Corporate Social Responsibility — the mandatory obligation of eligible companies to spend 2% of net profits on social welfare.",
+      "definition_detailed": "Corporate Social Responsibility (CSR), as defined under Section 135 of the Companies Act, 2013, requires companies with a net worth of ₹500 crore or more, or turnover of ₹1,000 crore or more, or net profit of ₹5 crore or more, to spend at least 2% of their average net profits over the preceding three years on CSR activities. CSR activities must fall under Schedule VII of the Act, which includes education, healthcare, environmental sustainability, poverty alleviation, and skill development — all areas where waste picker welfare organizations operate. Companies can implement CSR directly, through registered trusts, or by partnering with NGOs registered on the E-ANUDAN portal. The Waste Pickers Welfare Foundation is CSR-registered (E-ANUDAN: CSR00037186, CSR-1: DL/00027665), making it eligible to receive and utilize CSR funds from corporations for waste picker welfare programs. CSR partnerships with Max Foundation and CII have enabled the Foundation to expand its healthcare and community development reach.",
+      "related_terms": ["80g-certificate", "e-anudan", "companies-act", "social-enterprise"],
+      "category": "legal"
+    },
+    {
+      "term": "DARPAN",
+      "slug": "darpan",
+      "definition_short": "The NITI Aayog portal where voluntary organizations register for a unique ID to partner with the government.",
+      "definition_detailed": "DARPAN (formerly NGO-DARPAN) is an online portal maintained by NITI Aayog (National Institution for Transforming India), the Indian government's policy think tank. It serves as a comprehensive database of all voluntary organizations (VOs) and Non-Governmental Organizations (NGOs) operating in India. Registration on DARPAN is mandatory for NGOs seeking to apply for government grants, participate in government schemes, or receive funds under the Foreign Contribution Regulation Act (FCRA). The portal assigns each registered organization a unique DARPAN ID that serves as a single-window identification across all government departments and ministries. The Waste Pickers Welfare Foundation's DARPAN ID is DL/20190246760. DARPAN registration enhances an NGO's credibility, enables transparency through public access to organizational information, and facilitates easier collaboration between the government and civil society organizations working in areas like waste worker welfare, education, and public health.",
+      "related_terms": ["niti-aayog", "ngo-registration", "government-schemes", "fcra"],
+      "category": "legal"
+    },
+    {
+      "term": "Community Learning Centre",
+      "slug": "community-learning-centre",
+      "definition_short": "A local education center that provides non-formal education to out-of-school children from marginalized communities.",
+      "definition_detailed": "A Community Learning Centre (CLC) is a neighborhood-based educational facility that provides non-formal education, life skills training, and a bridge to formal schooling for children who have dropped out of school or never enrolled. CLCs are particularly vital in urban slums and waste picker settlements where formal schools may be inaccessible due to poverty, lack of documentation, or distance. The Waste Pickers Welfare Foundation operates CLCs across Delhi NCR, serving over 500 children from waste picker families. The centres offer daily classes in Hindi, English, Social Science, Science, and Mathematics, along with personality development and communication skills training. Teachers at CLCs are often community members trained by the Foundation, creating local employment opportunities. The ultimate goal is to mainstream children into formal schools, and the Foundation has successfully facilitated the formal enrollment of over 200 children. CLCs also serve as hubs for mid-day meals, health checkups, and parent engagement programs.",
+      "related_terms": ["child-education", "non-formal-education", "right-to-education", "anganwadi"],
+      "category": "programs"
+    },
+    {
+      "term": "Swachh Bharat Mission",
+      "slug": "swachh-bharat-mission",
+      "definition_short": "India's nationwide cleanliness campaign launched in 2014 to achieve universal sanitation and eliminate open defecation.",
+      "definition_detailed": "The Swachh Bharat Mission (SBM), also known as Clean India Mission, is a nationwide campaign launched by the Government of India on October 2, 2014. The mission has two components: Swachh Bharat Mission (Gramin) for rural areas and Swachh Bharat Mission (Urban) for urban areas. SBM Urban focuses on construction of individual and community toilets, solid waste management, behavioral change communication, and capacity building. Under SBM 2.0 (2021-2026), the focus expanded to sustainable solid waste management, wastewater treatment, and Used Water Management. The mission has significant implications for waste pickers — as formal waste management systems expand, integration of informal waste workers into the system becomes critical. SBM guidelines recommend inclusion of waste pickers in door-to-door collection, source segregation, and material recovery facility operations. However, implementation varies widely across municipalities 3. Organizations like the Waste Pickers Welfare Foundation advocate for fair inclusion of waste pickers in SBM implementation, ensuring they receive recognition, fair wages, and safety equipment.",
+      "related_terms": ["solid-waste-management", "waste-picker", "sanitation", "open-defecation-free"],
+      "category": "waste-management"
+    },
+    {
+      "term": "Anganwadi",
+      "slug": "anganwadi",
+      "definition_short": "A government-run early childhood care center providing nutrition, health, and pre-school education to children aged 0-6.",
+      "definition_detailed": "An Anganwadi (literally 'courtyard shelter') is a type of rural and urban community-based childcare and mother-care center established under the Integrated Child Development Services (ICDS) scheme of the Government of India. Anganwadis provide six core services: supplementary nutrition, pre-school non-formal education, nutrition and health education, immunization, health checkups, and referral services. There are approximately 14 lakh Anganwadi centres across India, staffed by Anganwadi Workers (AWWs) and Anganwadi Helpers (AWHs). In waste picker communities, Anganwadis are often the first point of contact for early childhood nutrition and health services. The Waste Pickers Welfare Foundation successfully advocated for the establishment of an Anganwadi centre in the Bhowapur waste picker community in 2017, ensuring that children from waste picker families receive early childhood nutrition, immunization, and pre-school education. The Foundation has linked 69 children to Anganwadi centres as of 2022-23.",
+      "related_terms": ["icds", "child-nutrition", "community-learning-centre", "child-education"],
+      "category": "programs"
+    },
+    {
+      "term": "NAMASTE Scheme",
+      "slug": "namaste-scheme",
+      "definition_short": "National Action for Mechanised Sanitation Ecosystem — a government scheme to rehabilitate manual scavengers with dignity.",
+      "definition_detailed": "NAMASTE (National Action for Mechanised Sanitation Ecosystem) is a Central Government scheme launched in 2023 aimed at achieving zero fatalities from sewer and septic tank cleaning, eliminating manual sewer and septic tank cleaning, and providing sustainable livelihoods to sanitation workers. The scheme provides identification of sanitation workers, occupational training, personal protective equipment (PPE), health insurance, and linkages to mechanized cleaning equipment. Under NAMASTE, Urban Local Bodies (ULBs) are mandated to enumerate sanitation workers, issue them identity cards, provide access to health camps, extend social security coverage, and facilitate alternative livelihood opportunities. While primarily targeting manual scavengers, the scheme's framework for sanitation worker welfare has overlaps with waste picker welfare — many waste picker families also engage in manual cleaning activities. The Waste Pickers Welfare Foundation conducts awareness sessions about NAMASTE and other government schemes to ensure waste picker communities can access available entitlements.",
+      "related_terms": ["sanitation-worker", "manual-scavenger", "government-schemes", "swachh-bharat-mission"],
+      "category": "government"
+    },
+    {
+      "term": "Waste Segregation",
+      "slug": "waste-segregation",
+      "definition_short": "The practice of separating waste at the source into categories like wet, dry, and hazardous for efficient processing.",
+      "definition_detailed": "Waste segregation refers to the practice of separating waste at the point of generation into distinct categories for efficient processing, recycling, and disposal. Under India's Solid Waste Management Rules, 2016, it is mandatory for all waste generators to segregate waste into at least three categories: biodegradable (wet waste), non-biodegradable (dry waste), and domestic hazardous waste. Effective source segregation dramatically improves recycling rates, reduces landfill burden, and enhances the livelihoods of waste pickers who depend on clean, sorted recyclable materials. When waste is pre-segregated, waste pickers can recover higher-quality materials that command better prices, and their exposure to hazardous substances is significantly reduced. Despite legal mandates, source segregation compliance in Indian cities averages only around 40-50%. Community awareness programs, like those conducted by the Waste Pickers Welfare Foundation's solid waste management roundtables, play a crucial role in educating citizens and municipal authorities about the importance of waste segregation.",
+      "related_terms": ["solid-waste-management", "recycling", "waste-picker", "swachh-bharat-mission"],
+      "category": "waste-management"
+    },
+    {
+      "term": "Non-Formal Education",
+      "slug": "non-formal-education",
+      "definition_short": "An organized educational program outside the formal school system designed for out-of-school children and adults.",
+      "definition_detailed": "Non-Formal Education (NFE) is a structured, organized learning activity that occurs outside the boundaries of the formal education system. NFE programs are specifically designed for individuals who are unable to access or have dropped out of formal schooling, including working children, street children, children of migrant workers, and children from urban slums. NFE programs typically offer flexible schedules, location-based learning (often within the community itself), relevant curriculum adapted to learners' circumstances, and bridge courses that prepare children for eventual enrollment in formal schools. The Right to Education Act, 2009, mandates that every child aged 6-14 has the right to free and compulsory education, making NFE an important strategy for reaching the most marginalized children. The Waste Pickers Welfare Foundation's Community Learning Centres serve as NFE centres, providing daily classes in core subjects alongside life skills training to over 500 children from waste picker families, successfully mainstreaming over 200 children into formal schools.",
+      "related_terms": ["community-learning-centre", "right-to-education", "child-education", "bridge-course"],
+      "category": "education"
+    },
+    {
+      "term": "Microfinance",
+      "slug": "microfinance",
+      "definition_short": "Financial services like small loans, savings, and insurance provided to low-income individuals and self-employment groups.",
+      "definition_detailed": "Microfinance is the provision of financial services — including small loans (microcredit), savings accounts, insurance (micro-insurance), and money transfer services — to individuals and groups who lack access to traditional banking and financial services. In India, the microfinance sector serves over 6 crore borrowers, with a loan portfolio exceeding ₹3.5 lakh crore. The Self-Help Group (SHG)-Bank Linkage Programme, pioneered by NABARD, is the world's largest microfinance model. In waste picker communities, microfinance through SHGs enables women to start small businesses (tailoring, food preparation, small retail shops), escape the cycle of high-interest debt from moneylenders (who charge 60-120% annual interest), and build financial resilience. The Waste Pickers Welfare Foundation facilitates microfinance access through SHGs operating under DUDA Ghaziabad, where over 150 women have accessed micro-loans to start vocational activities, contributing to family income and economic independence.",
+      "related_terms": ["self-help-group", "women-empowerment", "nabard", "financial-inclusion"],
+      "category": "programs"
+    },
+    {
+      "term": "Vocational Training",
+      "slug": "vocational-training",
+      "definition_short": "Skills-based education that prepares individuals for a specific trade or occupation rather than academic study.",
+      "definition_detailed": "Vocational Training refers to education and training programs designed to equip individuals with practical skills and competencies for a specific trade, occupation, or livelihood. Unlike academic education, vocational training focuses on hands-on learning, apprenticeships, and skill certification. In India, vocational training is delivered through Industrial Training Institutes (ITIs), Pradhan Mantri Kaushal Vikas Yojana (PMKVY) centres, and NGO-run skill centers. For waste picker communities, vocational training offers alternative livelihood pathways — enabling community members, especially youth and women, to diversify their income sources beyond waste picking. The Waste Pickers Welfare Foundation provides vocational training in tailoring, stitching, embroidery, and basic computer operations. In 2022-23, 268 individuals were trained in stitching skills through the Foundation's programs, with many going on to start their own tailoring businesses or secure employment in the garment industry.",
+      "related_terms": ["skill-development", "self-help-group", "pmkvy", "livelihood"],
+      "category": "programs"
+    },
+    {
+      "term": "Trust Registration",
+      "slug": "trust-registration",
+      "definition_short": "The legal process of registering a charitable trust with the government under the Indian Trusts Act, 1882 or state acts.",
+      "definition_detailed": "Trust Registration is the legal process of formally establishing a charitable trust with a government authority, granting the organization legal status to receive donations, hold property, and operate programs for public benefit. In India, trusts can be registered under the Indian Trusts Act, 1882, or under state-specific Trust Registration Acts. The registration process requires founding trustees, a trust deed specifying the organization's charitable objectives, the appointment of a chairperson and secretary, and submission of documents to the Sub-Registrar. Once registered, the trust receives a unique registration number that serves as its legal identity. A registered trust is a prerequisite for obtaining 80G and 12A certificates, FCRA registration, and DARPAN enrollment. The Waste Pickers Welfare Foundation was registered under the Trust Registration Act, 1860, with Registration Number 1690, dated 26 May 2014, from the Sub-Registrar, Shahadara, Delhi. Trust registration provided the legal foundation for all subsequent certifications and enabled the Foundation to scale its programs across Delhi NCR.",
+      "related_terms": ["80g-certificate", "12a-certificate", "nonprofit", "darpan"],
+      "category": "legal"
+    },
+    {
+      "term": "Informal Economy",
+      "slug": "informal-economy",
+      "definition_short": "Economic activities and workers that operate outside the regulated, taxed, and monitored formal sector.",
+      "definition_detailed": "The informal economy encompasses all economic activities, workers, and enterprises that operate outside the scope of formal regulation, taxation, and social protection systems. In India, the informal sector accounts for approximately 80-90% of total employment and about 50% of GDP. Waste pickers are among the most visible participants in the informal economy — they operate without employment contracts, minimum wage guarantees, occupational health insurance, or pension benefits. Despite generating significant economic value (estimated at ₹20,000-40,000 crore annually in India through recycling), waste pickers receive minimal compensation and face exploitation by middlemen and scrap dealers. Formalization efforts aim to integrate informal workers into the organized economy through identity cards, social security schemes (like e-Shram registration), bank accounts, and occupational recognition. The Waste Pickers Welfare Foundation works on both fronts — providing immediate support (healthcare, education, skill training) while advocating for systemic policy changes that formally recognize and protect waste picker livelihoods.",
+      "related_terms": ["waste-picker", "unorganized-sector", "e-shram", "social-security"],
+      "category": "core-concepts"
+    },
+    {
+      "term": "Right to Education",
+      "slug": "right-to-education",
+      "definition_short": "The constitutional right (Article 21A) guaranteeing free and compulsory education for all children aged 6-14 in India.",
+      "definition_detailed": "The Right to Education (RTE) Act, 2009, enacted under Article 21A of the Indian Constitution, provides for free and compulsory education for every child between the ages of 6 and 14 years. The Act mandates that no child can be denied admission to a school for lack of birth certificate or transfer certificate, no child can be held back or expelled until completion of elementary education, and schools must maintain specified pupil-teacher ratios and infrastructure standards. Private unaided schools must also reserve 25% of their seats for economically weaker sections and disadvantaged groups. For waste picker families, RTE is a powerful tool for ensuring their children's access to formal education, but implementation challenges remain — including lack of awareness, missing documentation, discrimination, and economic pressure to work. The Waste Pickers Welfare Foundation leverages RTE provisions to facilitate school admissions for children from waste picker communities, having successfully enrolled 112 children in formal schools during 2022-23 alone, with follow-up support for school retention.",
+      "related_terms": ["child-education", "non-formal-education", "community-learning-centre", "child-labor"],
+      "category": "education"
+    },
+    {
+      "term": "Health Camp",
+      "slug": "health-camp",
+      "definition_short": "A temporary medical facility providing free healthcare services like consultations, screenings, and medicines to underserved communities.",
+      "definition_detailed": "A health camp is a community-based medical outreach event that provides free or subsidized healthcare services to underserved populations who lack regular access to medical facilities. Health camps typically offer general health checkups, specialist consultations, diagnostic screenings (blood tests, blood pressure, blood sugar), free medicine distribution, and referrals to hospitals for advanced treatment. In India, health camps are frequently organized by NGOs, CSR initiatives, and government health programs to bridge the healthcare gap in urban slums, rural areas, and marginalized communities. The Waste Pickers Welfare Foundation organizes monthly health camps in partnership with Max Foundation and the Confederation of Indian Industry (CII), serving waste picker families across Delhi NCR. In 2022-23, the Foundation facilitated 2,854 COVID vaccination referrals, 419 general health checkups, 315 HIV testing referrals, and 119 eye checkup referrals through their health camp programs, making healthcare accessible to families who would otherwise have no medical support.",
+      "related_terms": ["healthcare", "community-development", "max-foundation", "covid-vaccination"],
+      "category": "programs"
+    },
+    {
+      "term": "Women Empowerment",
+      "slug": "women-empowerment",
+      "definition_short": "The process of strengthening women's social, economic, and political position through education, skills, rights awareness, and self-governance.",
+      "definition_detailed": "Women's empowerment refers to a holistic process of enhancing women's capacity for self-determination, autonomy, and agency across social, economic, and political dimensions. In India's development context, women's empowerment programs typically focus on financial independence (through SHGs and microfinance), vocational training, health and reproductive rights awareness, legal literacy, leadership development, and protection from violence and exploitation. In waste picker communities, women face compounded marginalization — working in hazardous conditions (often alongside children), earning less than men for the same work, lacking control over household finances, and experiencing high rates of domestic violence and substance abuse in their families. The Waste Pickers Welfare Foundation's women empowerment program addresses these challenges through the formation of Self-Help Groups (SHGs), vocational training in tailoring and stitching for over 200 women, awareness campaigns on government schemes and legal entitlements, health card distribution, and creating safe spaces for women to organize and advocate for their rights.",
+      "related_terms": ["self-help-group", "vocational-training", "gender-equality", "microfinance"],
+      "category": "programs"
+    },
+    {
+      "term": "Drug Abuse Prevention",
+      "slug": "drug-abuse-prevention",
+      "definition_short": "Programs and interventions aimed at preventing substance abuse through education, counseling, and community awareness.",
+      "definition_detailed": "Drug Abuse Prevention encompasses a range of strategies, programs, and interventions designed to reduce the incidence and impact of substance use disorders in communities. Prevention approaches operate at multiple levels: primary prevention (awareness campaigns, school education, community sensitization), secondary prevention (early identification, individual and group counseling, intervention for at-risk youth), and tertiary prevention (treatment referrals, rehabilitation support, family counseling). In waste picker settlements, substance abuse is a significant concern — economic stress, social marginalization, and lack of recreational facilities make youth and adults in these communities particularly vulnerable to alcohol, tobacco, and drug addiction. The Waste Pickers Welfare Foundation runs a comprehensive drug abuse prevention program that conducted 1,246 individual counseling sessions, 716 group counseling sessions, made 71 referrals to Drop-in Centres, and 19 referrals to de-addiction centres during 2022-23. The program also works with families and schools to address the root causes of substance abuse.",
+      "related_terms": ["community-development", "counseling", "rehabilitation", "youth-welfare"],
+      "category": "programs"
+    },
+    {
+      "term": "Recycling",
+      "slug": "recycling",
+      "definition_short": "The process of converting waste materials into new products to reduce consumption of raw resources and environmental impact.",
+      "definition_detailed": "Recycling is the process of collecting, sorting, processing, and converting waste materials into new raw materials or products. In India, the recycling ecosystem is largely driven by the informal sector, with waste pickers serving as the primary agents of material recovery. Common recyclables include paper and cardboard, plastics (PET, HDPE, LDPE), metals (aluminum, copper, iron), glass, and electronic waste. Indian waste pickers collectively recover an estimated 20-25% of total municipal waste for recycling, saving municipalities an estimated ₹1,600 crore annually in waste handling costs and reducing greenhouse gas emissions equivalent to removing 3.6 million cars from the road. Despite this immense environmental and economic contribution, waste pickers typically earn only ₹200-400 per day and face exploitation from scrap dealer networks. Fair pricing, direct market access, cooperative formation, and integration into extended producer responsibility (EPR) systems are key advocacy areas for waste picker organizations. The Waste Pickers Welfare Foundation's community development program includes advocating for waste pickers' recognition as essential environmental service providers.",
+      "related_terms": ["waste-picker", "solid-waste-management", "waste-segregation", "circular-economy"],
+      "category": "waste-management"
+    },
+    {
+      "term": "E-Shram",
+      "slug": "e-shram",
+      "definition_short": "The national database of unorganized workers providing them a universal account number and access to social security schemes.",
+      "definition_detailed": "E-Shram is the national portal for registering unorganized sector workers in India, launched by the Ministry of Labour and Employment in August 2021. The portal creates a centralized database of unorganized workers including construction workers, street vendors, domestic workers, agricultural laborers, and waste pickers. Upon registration, workers receive a 12-digit Universal Account Number (UAN) and an E-Shram card, which enables access to various social security schemes including Pradhan Mantri Jeevan Jyoti Bima Yojana (life insurance), Pradhan Mantri Suraksha Bima Yojana (accident insurance), Atal Pension Yojana, and Pradhan Mantri Shram Yogi Mandhan Yojana (pension scheme). Over 29 crore workers have registered on E-Shram as of 2024. For waste pickers, E-Shram registration is transformative — it provides official government recognition as workers, enables access to insurance and pension benefits, and creates a data trail that supports advocacy for policy reforms. The Waste Pickers Welfare Foundation assists community members in E-Shram registration as part of its community development program.",
+      "related_terms": ["informal-economy", "social-security", "government-schemes", "unorganized-sector"],
+      "category": "government"
+    },
+    {
+      "term": "Occupational Health",
+      "slug": "occupational-health",
+      "definition_short": "The branch of health focused on preventing and managing diseases and injuries caused by workplace conditions.",
+      "definition_detailed": "Occupational health refers to the identification, assessment, and control of health risks arising from the workplace environment. For waste pickers, occupational health is a critical concern as they work in one of the most hazardous environments without protective equipment, formal training, or medical support. Common occupational health risks for waste pickers include respiratory diseases from inhalation of toxic fumes and dust particles, musculoskeletal disorders from heavy lifting and repetitive bending, skin infections and allergic reactions from contact with hazardous materials, gastrointestinal infections from contaminated waste, cuts and wounds from sharp objects (broken glass, needles, metal scraps), and exposure to chemical and biomedical waste. Studies show waste pickers have 3-5 times higher rates of respiratory and gastrointestinal diseases compared to the general population. The Waste Pickers Welfare Foundation's monthly health camps directly address these occupational health challenges by providing free medical consultations, medicines, health screenings, and referrals to hospitals for specialized treatment.",
+      "related_terms": ["health-camp", "healthcare", "waste-picker", "personal-protective-equipment"],
+      "category": "health"
+    },
+    {
+      "term": "Circular Economy",
+      "slug": "circular-economy",
+      "definition_short": "An economic model that aims to eliminate waste by keeping resources in use through repair, reuse, and recycling.",
+      "definition_detailed": "A circular economy is an economic model that designs out waste and pollution, keeps products and materials in use at their highest value for as long as possible, and regenerates natural systems. Unlike the traditional linear economy ('take-make-dispose'), a circular economy emphasizes product design for longevity, repair, remanufacture, reuse, and recycling. In India, the circular economy framework aligns closely with traditional practices of repair and reuse that have existed for generations, particularly in the informal sector. Waste pickers are inherently circular economy practitioners — they recover materials from waste streams and reinsert them into manufacturing supply chains, extending the useful life of resources and reducing the need for virgin material extraction. The economic value of informal recycling by waste pickers in India exceeds $2 billion annually. Global circular economy frameworks like those promoted by the Ellen MacArthur Foundation increasingly recognize the need to include informal waste workers as key stakeholders in circular economy transitions, ensuring that formalization benefits rather than displaces these communities.",
+      "related_terms": ["recycling", "solid-waste-management", "sustainability", "waste-picker"],
+      "category": "waste-management"
+    },
+    {
+      "term": "Child Labor",
+      "slug": "child-labor",
+      "definition_short": "Work performed by children that deprives them of childhood, education, dignity, and their physical and mental well-being.",
+      "definition_detailed": "Child labor refers to work that deprives children of their childhood, their potential, and their dignity, and is harmful to their physical, mental, or social development. In India, the Child Labour (Prohibition and Regulation) Amendment Act, 2016, prohibits the employment of children below 14 years in all occupations (with family enterprise exceptions) and adolescents (14-18 years) in hazardous occupations. India has approximately 10 million child laborers as per census estimates, with many working in waste picking, domestic work, agriculture, and small-scale manufacturing. In waste picker communities, children are particularly vulnerable — economic desperation forces many families to involve children in waste collection from ages as young as 5-6 years, effectively denying them education and exposing them to serious health hazards. The Waste Pickers Welfare Foundation specifically targets child labor through its Community Learning Centres, providing non-formal education to out-of-school children, facilitating their enrollment in formal schools, and supporting families to reduce their economic dependence on children's labor.",
+      "related_terms": ["right-to-education", "community-learning-centre", "child-education", "non-formal-education"],
+      "category": "education"
+    },
+    {
+      "term": "NGO Registration",
+      "slug": "ngo-registration",
+      "definition_short": "The legal process of registering a nonprofit organization in India as a Trust, Society, or Section 8 Company.",
+      "definition_detailed": "NGO registration in India refers to the formal process of legally establishing a non-governmental, nonprofit organization. There are three primary legal structures for NGO registration in India: Trust (registered under the Indian Trusts Act, 1882 or state trust acts), Society (registered under the Societies Registration Act, 1860), and Section 8 Company (registered under Section 8 of the Companies Act, 2013). Each structure has distinct characteristics — trusts are most common for charitable organizations, societies suit membership-based organizations, and Section 8 companies offer corporate governance features. Following registration, NGOs typically pursue additional certifications: 12A registration (income tax exemption), 80G certification (tax benefits for donors), FCRA registration (for receiving foreign contributions), DARPAN enrollment (for government partnerships), and CSR registration (for corporate funding). The Waste Pickers Welfare Foundation chose the trust structure, registered under the Trust Registration Act, 1860, with Registration Number 1690, providing the legal foundation for all its charitable operations in waste picker welfare across Delhi NCR.",
+      "related_terms": ["trust-registration", "80g-certificate", "12a-certificate", "darpan"],
+      "category": "legal"
+    },
+    {
+      "term": "Landfill",
+      "slug": "landfill",
+      "definition_short": "A designated area for the disposal of solid waste, typically in open or engineered sites where waste is buried.",
+      "definition_detailed": "A landfill is a designated site for the disposal and burial of municipal solid waste. In India, there are two types: open dumpsites (unscientific, common in most cities) and engineered sanitary landfills (with liner systems, leachate collection, and gas management). Delhi has three major landfill sites: Ghazipur, Bhalswa, and Okhla — each rising to heights of 50-65 meters, earning them the moniker 'garbage mountains.' These landfills receive over 10,000 tonnes of waste daily and pose severe environmental and health hazards including groundwater contamination, air pollution, fires, and disease vectors. Thousands of waste pickers work at and around landfills, sorting through fresh waste to recover recyclable materials in extremely hazardous conditions without any safety equipment. The Delhi government's plans to remediate these sites and transition to waste-to-energy plants threaten the livelihoods of landfill-based waste pickers unless proper rehabilitation and alternative employment measures are implemented. Organizations like the Waste Pickers Welfare Foundation advocate for waste picker inclusion in landfill management plans.",
+      "related_terms": ["solid-waste-management", "waste-picker", "recycling", "waste-segregation"],
+      "category": "waste-management"
+    },
+    {
+      "term": "Community Development",
+      "slug": "community-development",
+      "definition_short": "A process where community members come together to take collective action and generate solutions to common challenges.",
+      "definition_detailed": "Community development is a participatory process whereby community members organize themselves, identify shared challenges, and take collective action to improve their social, economic, and environmental conditions. In India's development framework, community development combines capacity building, rights-based advocacy, service delivery, and institutional strengthening. Key activities include community meetings, awareness campaigns, government scheme enrollment, identity card procurement, voter registration, and advocacy for infrastructure improvements (water, sanitation, roads, electricity). The Waste Pickers Welfare Foundation's community development program is among its most impactful — in 2022-23, the Foundation conducted 136 community meetings, organized 71 awareness programs, made 1,014 home visits, facilitated 112 school admissions, and linked 69 children to Anganwadi centres. The program also helps community members obtain essential documents like Aadhaar cards, ration cards, and voter IDs — critical for accessing government subsidies and schemes. Community development creates the foundation for all other program areas, building trust, social networks, and civic participation within waste picker communities.",
+      "related_terms": ["waste-picker", "self-help-group", "government-schemes", "advocacy"],
+      "category": "programs"
+    },
+    {
+      "term": "Donation",
+      "slug": "donation",
+      "definition_short": "A voluntary gift of money, goods, or services to a charitable cause without expecting direct compensation.",
+      "definition_detailed": "A donation is a voluntary contribution of money, goods, or services to a charitable organization for public benefit without expectation of direct personal return. In India, charitable donations to registered organizations provide donors with tax benefits under Section 80G of the Income Tax Act, allowing deductions of 50% or 100% of the donated amount from taxable income depending on the organization's registration category. Types of charitable donations include monetary donations (via bank transfer, UPI, cheque, or cash), in-kind donations (clothes, books, food, medicines, sanitary supplies), CSR contributions from corporations, planned giving (bequests and legacy donations), and crowdfunding. The Waste Pickers Welfare Foundation accepts donations through bank transfer to Axis Bank (Account No. 2401248559732610, IFSC: AUBL0002485) and provides 80G-compliant donation receipts for tax purposes. Donor contributions directly fund the Foundation's six core programs — education, healthcare, women empowerment, drug abuse prevention, community development, and skill development — serving over 4,000 waste pickers and their families across Delhi NCR annually.",
+      "related_terms": ["80g-certificate", "csr", "tax-exemption", "fundraising"],
+      "category": "getting-involved"
+    }
+  ]
+}

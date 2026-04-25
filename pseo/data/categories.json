@@ -1,0 +1,20 @@
+{
+  "categories": [
+    { "name": "Child Education", "slug": "child-education", "icon": "📚" },
+    { "name": "Healthcare", "slug": "healthcare", "icon": "🏥" },
+    { "name": "Women Empowerment", "slug": "women-empowerment", "icon": "👩‍👧" },
+    { "name": "Drug Abuse Prevention", "slug": "drug-abuse-prevention", "icon": "🛡️" },
+    { "name": "Community Development", "slug": "community-development", "icon": "🏘️" },
+    { "name": "Skill Development", "slug": "skill-development", "icon": "💼" }
+  ],
+  "topics": [
+    { "name": "Waste Management", "slug": "waste-management" },
+    { "name": "Social Welfare", "slug": "social-welfare" },
+    { "name": "CSR Partnerships", "slug": "csr-partnerships" },
+    { "name": "Government Schemes", "slug": "government-schemes" },
+    { "name": "NGO Funding", "slug": "ngo-funding" },
+    { "name": "Volunteer Management", "slug": "volunteer-management" },
+    { "name": "Child Rights", "slug": "child-rights" },
+    { "name": "Urban Poverty", "slug": "urban-poverty" }
+  ]
+}

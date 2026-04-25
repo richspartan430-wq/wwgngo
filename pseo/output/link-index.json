@@ -1,0 +1,1309 @@
+{
+  "/seo/glossary/waste-picker.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/waste-segregation.html",
+      "/annual-reports.html",
+      "/seo/glossary/self-help-group.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/waste-segregation.html",
+      "/programs.html",
+      "/seo/glossary/self-help-group.html",
+      "/seo/glossary/80g-certificate.html"
+    ]
+  },
+  "/seo/glossary/ragpicker.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/informal-economy.html",
+      "/seo/glossary/waste-segregation.html",
+      "/seo/glossary/child-labor.html",
+      "/annual-reports.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/informal-economy.html",
+      "/seo/glossary/waste-segregation.html",
+      "/programs.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/solid-waste-management.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/recycling.html",
+      "/seo/glossary/waste-segregation.html",
+      "/annual-reports.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/self-help-group.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/recycling.html",
+      "/seo/glossary/waste-segregation.html",
+      "/programs.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/self-help-group.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/women-empowerment.html",
+      "/seo/glossary/microfinance.html",
+      "/seo/glossary/community-development.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/women-empowerment.html",
+      "/seo/glossary/microfinance.html",
+      "/seo/glossary/community-development.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html"
+    ]
+  },
+  "/seo/glossary/80g-certificate.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/12a-certificate.html",
+      "/seo/glossary/donation.html",
+      "/seo/glossary/csr.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/12a-certificate.html",
+      "/seo/glossary/donation.html",
+      "/seo/glossary/csr.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html"
+    ]
+  },
+  "/seo/glossary/12a-certificate.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/80g-certificate.html",
+      "/seo/glossary/trust-registration.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/80g-certificate.html",
+      "/seo/glossary/trust-registration.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html"
+    ]
+  },
+  "/seo/glossary/csr.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/80g-certificate.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/80g-certificate.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/darpan.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/ngo-registration.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/ngo-registration.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/community-learning-centre.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/non-formal-education.html",
+      "/seo/glossary/right-to-education.html",
+      "/seo/glossary/anganwadi.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/non-formal-education.html",
+      "/seo/glossary/right-to-education.html",
+      "/seo/glossary/anganwadi.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html"
+    ]
+  },
+  "/seo/glossary/swachh-bharat-mission.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/waste-picker.html",
+      "/annual-reports.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/waste-picker.html",
+      "/programs.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/self-help-group.html",
+      "/seo/glossary/80g-certificate.html"
+    ]
+  },
+  "/seo/glossary/anganwadi.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/community-learning-centre.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/community-learning-centre.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/namaste-scheme.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/swachh-bharat-mission.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/swachh-bharat-mission.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/waste-segregation.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/recycling.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/swachh-bharat-mission.html",
+      "/annual-reports.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/recycling.html",
+      "/seo/glossary/waste-picker.html",
+      "/programs.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/non-formal-education.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/community-learning-centre.html",
+      "/seo/glossary/right-to-education.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/community-learning-centre.html",
+      "/seo/glossary/right-to-education.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html"
+    ]
+  },
+  "/seo/glossary/microfinance.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/self-help-group.html",
+      "/seo/glossary/women-empowerment.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/self-help-group.html",
+      "/seo/glossary/women-empowerment.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html"
+    ]
+  },
+  "/seo/glossary/vocational-training.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/self-help-group.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/self-help-group.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/80g-certificate.html"
+    ]
+  },
+  "/seo/glossary/trust-registration.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/80g-certificate.html",
+      "/seo/glossary/12a-certificate.html",
+      "/seo/glossary/darpan.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/80g-certificate.html",
+      "/seo/glossary/12a-certificate.html",
+      "/seo/glossary/darpan.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html"
+    ]
+  },
+  "/seo/glossary/informal-economy.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/e-shram.html",
+      "/annual-reports.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/e-shram.html",
+      "/programs.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/right-to-education.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/non-formal-education.html",
+      "/seo/glossary/community-learning-centre.html",
+      "/seo/glossary/child-labor.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/non-formal-education.html",
+      "/seo/glossary/community-learning-centre.html",
+      "/seo/glossary/child-labor.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html"
+    ]
+  },
+  "/seo/glossary/health-camp.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/community-development.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/community-development.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/women-empowerment.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/self-help-group.html",
+      "/seo/glossary/vocational-training.html",
+      "/seo/glossary/microfinance.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/self-help-group.html",
+      "/seo/glossary/vocational-training.html",
+      "/seo/glossary/microfinance.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html"
+    ]
+  },
+  "/seo/glossary/drug-abuse-prevention.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/community-development.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/community-development.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/recycling.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/waste-segregation.html",
+      "/seo/glossary/circular-economy.html",
+      "/annual-reports.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/waste-segregation.html",
+      "/programs.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/e-shram.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/informal-economy.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/informal-economy.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/occupational-health.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/health-camp.html",
+      "/seo/glossary/waste-picker.html",
+      "/annual-reports.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/health-camp.html",
+      "/seo/glossary/waste-picker.html",
+      "/programs.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/circular-economy.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/recycling.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/waste-picker.html",
+      "/annual-reports.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/recycling.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/waste-picker.html",
+      "/programs.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/child-labor.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/right-to-education.html",
+      "/seo/glossary/community-learning-centre.html",
+      "/seo/glossary/non-formal-education.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/right-to-education.html",
+      "/seo/glossary/community-learning-centre.html",
+      "/seo/glossary/non-formal-education.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html"
+    ]
+  },
+  "/seo/glossary/ngo-registration.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/trust-registration.html",
+      "/seo/glossary/80g-certificate.html",
+      "/seo/glossary/12a-certificate.html",
+      "/seo/glossary/darpan.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/trust-registration.html",
+      "/seo/glossary/80g-certificate.html",
+      "/seo/glossary/12a-certificate.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html"
+    ]
+  },
+  "/seo/glossary/landfill.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/recycling.html",
+      "/seo/glossary/waste-segregation.html",
+      "/annual-reports.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/recycling.html",
+      "/programs.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/self-help-group.html"
+    ]
+  },
+  "/seo/glossary/community-development.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/self-help-group.html",
+      "/annual-reports.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/self-help-group.html",
+      "/programs.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/glossary/80g-certificate.html"
+    ]
+  },
+  "/seo/glossary/donation.html": {
+    "playbook_type": "glossary",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/seo/glossary/80g-certificate.html",
+      "/seo/glossary/csr.html",
+      "/annual-reports.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/glossary/80g-certificate.html",
+      "/seo/glossary/csr.html",
+      "/programs.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/glossary/ragpicker.html",
+      "/seo/glossary/solid-waste-management.html"
+    ]
+  },
+  "/seo/locations/shahdara-delhi.html": {
+    "playbook_type": "locations",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/locations/south-delhi.html",
+      "/seo/locations/north-east-delhi.html",
+      "/seo/locations/noida.html"
+    ]
+  },
+  "/seo/locations/ghaziabad.html": {
+    "playbook_type": "locations",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/locations/south-delhi.html",
+      "/seo/locations/north-east-delhi.html",
+      "/seo/locations/noida.html"
+    ]
+  },
+  "/seo/locations/east-delhi.html": {
+    "playbook_type": "locations",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/locations/south-delhi.html",
+      "/seo/locations/north-east-delhi.html",
+      "/seo/locations/noida.html"
+    ]
+  },
+  "/seo/locations/gurugram-haryana.html": {
+    "playbook_type": "locations",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/south-delhi.html",
+      "/seo/locations/north-east-delhi.html",
+      "/seo/locations/noida.html"
+    ]
+  },
+  "/seo/locations/south-delhi.html": {
+    "playbook_type": "locations",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/locations/north-east-delhi.html",
+      "/seo/locations/noida.html"
+    ]
+  },
+  "/seo/locations/north-east-delhi.html": {
+    "playbook_type": "locations",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/locations/south-delhi.html",
+      "/seo/locations/noida.html"
+    ]
+  },
+  "/seo/locations/noida.html": {
+    "playbook_type": "locations",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/locations/south-delhi.html",
+      "/seo/locations/north-east-delhi.html"
+    ]
+  },
+  "/seo/locations/faridabad-haryana.html": {
+    "playbook_type": "locations",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/locations/south-delhi.html",
+      "/seo/locations/north-east-delhi.html"
+    ]
+  },
+  "/seo/locations/central-delhi.html": {
+    "playbook_type": "locations",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/locations/south-delhi.html",
+      "/seo/locations/north-east-delhi.html"
+    ]
+  },
+  "/seo/locations/delhi-ncr.html": {
+    "playbook_type": "locations",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/personas/csr-manager.html"
+    ],
+    "related_pages": [
+      "/seo/locations/shahdara-delhi.html",
+      "/seo/locations/ghaziabad.html",
+      "/seo/locations/east-delhi.html",
+      "/seo/locations/gurugram-haryana.html",
+      "/seo/locations/south-delhi.html",
+      "/seo/locations/north-east-delhi.html"
+    ]
+  },
+  "/seo/personas/csr-manager.html": {
+    "playbook_type": "personas",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/personas/government-official.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/locations/shahdara-delhi.html"
+    ],
+    "related_pages": [
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/personas/government-official.html",
+      "/seo/personas/social-worker.html",
+      "/seo/personas/student-researcher.html",
+      "/seo/personas/journalist.html"
+    ]
+  },
+  "/seo/personas/individual-donor.html": {
+    "playbook_type": "personas",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/volunteer.html",
+      "/seo/personas/government-official.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/locations/shahdara-delhi.html"
+    ],
+    "related_pages": [
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/volunteer.html",
+      "/seo/personas/government-official.html",
+      "/seo/personas/social-worker.html",
+      "/seo/personas/student-researcher.html",
+      "/seo/personas/journalist.html"
+    ]
+  },
+  "/seo/personas/volunteer.html": {
+    "playbook_type": "personas",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/government-official.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/locations/shahdara-delhi.html"
+    ],
+    "related_pages": [
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/government-official.html",
+      "/seo/personas/social-worker.html",
+      "/seo/personas/student-researcher.html",
+      "/seo/personas/journalist.html"
+    ]
+  },
+  "/seo/personas/government-official.html": {
+    "playbook_type": "personas",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/locations/shahdara-delhi.html"
+    ],
+    "related_pages": [
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/personas/social-worker.html",
+      "/seo/personas/student-researcher.html",
+      "/seo/personas/journalist.html"
+    ]
+  },
+  "/seo/personas/social-worker.html": {
+    "playbook_type": "personas",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/locations/shahdara-delhi.html"
+    ],
+    "related_pages": [
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/personas/government-official.html",
+      "/seo/personas/student-researcher.html",
+      "/seo/personas/journalist.html"
+    ]
+  },
+  "/seo/personas/student-researcher.html": {
+    "playbook_type": "personas",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/locations/shahdara-delhi.html"
+    ],
+    "related_pages": [
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/personas/government-official.html",
+      "/seo/personas/social-worker.html",
+      "/seo/personas/journalist.html"
+    ]
+  },
+  "/seo/personas/journalist.html": {
+    "playbook_type": "personas",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/locations/shahdara-delhi.html"
+    ],
+    "related_pages": [
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/personas/government-official.html",
+      "/seo/personas/social-worker.html",
+      "/seo/personas/student-researcher.html"
+    ]
+  },
+  "/seo/personas/partner-ngo.html": {
+    "playbook_type": "personas",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/locations/shahdara-delhi.html"
+    ],
+    "related_pages": [
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/personas/government-official.html",
+      "/seo/personas/social-worker.html",
+      "/seo/personas/student-researcher.html"
+    ]
+  },
+  "/seo/personas/waste-picker-family.html": {
+    "playbook_type": "personas",
+    "links_to": [
+      "/index.html",
+      "/about.html",
+      "/programs.html",
+      "/gallery.html",
+      "/get-involved.html",
+      "/contact.html",
+      "/annual-reports.html",
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/glossary/waste-picker.html",
+      "/seo/locations/shahdara-delhi.html"
+    ],
+    "related_pages": [
+      "/seo/personas/csr-manager.html",
+      "/seo/personas/individual-donor.html",
+      "/seo/personas/volunteer.html",
+      "/seo/personas/government-official.html",
+      "/seo/personas/social-worker.html",
+      "/seo/personas/student-researcher.html"
+    ]
+  }
+}
