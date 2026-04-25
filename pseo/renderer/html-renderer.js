@@ -1,4 +1,4 @@
-﻿// ===================================
+// ===================================
 // pSEO Engine - HTML Renderer
 // ===================================
 
@@ -42,7 +42,11 @@ class HTMLRenderer {
     <meta property="og:site_name" content="${config.SITE_NAME}">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="canonical" href="${config.BASE_URL}${page.url}">
-    <link rel="icon" href="/assets/founder.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon_io/favicon-16x16.png">
+    <link rel="shortcut icon" href="/favicon_io/favicon.ico">
+    <link rel="manifest" href="/favicon_io/site.webmanifest">
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/pseo.css">
     <script type="application/ld+json">
