@@ -71,6 +71,9 @@ app.use('/blog', blogRoutes);
 app.use('/admin/login', loginLimiter);
 app.use('/admin', adminRoutes);
 
+// Dynamic sitemap.xml + robots.txt — mount BEFORE express.static so it overrides files.
+app.use('/', require('./routes/sitemap'));
+
 // ------------- Static site -------------
 // Serve the existing static HTML site from /wwf-website.
 // This MUST come after dynamic routes so /blog and /admin win.

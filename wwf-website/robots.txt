@@ -7,5 +7,9 @@ Allow: /
 # Allow PDFs (annual reports) to be indexed so donors can discover them
 Allow: /assets/
 
-# Sitemap
-Sitemap: https://wwfngo.org/sitemap.xml
+# Disallow admin/api paths
+Disallow: /admin
+Disallow: /api
+
+# Sitemap (dynamic — generated from DB + static pages)
+Sitemap: https://www.wwfngo.org/sitemap.xml
