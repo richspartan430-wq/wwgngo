@@ -1,0 +1,302 @@
+/* ===================================
+   pSEO Pages — Stylesheet
+   Extends the main site design system
+   =================================== */
+
+/* Breadcrumb */
+.pseo-breadcrumb {
+  background: var(--bg-dark, #1a1a2e);
+  padding: 0.8rem 0;
+  font-size: 0.85rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+.pseo-breadcrumb .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+.pseo-breadcrumb a {
+  color: var(--primary-blue, #4a9eff);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.pseo-breadcrumb a:hover {
+  color: #74b9ff;
+  text-decoration: underline;
+}
+.breadcrumb-sep {
+  margin: 0 0.5rem;
+  color: rgba(255, 255, 255, 0.35);
+}
+.breadcrumb-current {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+/* Page Layout */
+.pseo-page {
+  padding: 3rem 0 5rem;
+  background: var(--bg-dark, #1a1a2e);
+  min-height: 80vh;
+}
+.pseo-page .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+.pseo-layout {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 3rem;
+  align-items: start;
+}
+
+/* Content */
+.pseo-content {
+  min-width: 0;
+}
+.pseo-content h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+  background: linear-gradient(135deg, #ffffff 0%, var(--primary-blue, #4a9eff) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.pseo-intro {
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+.pseo-section {
+  margin-bottom: 2.5rem;
+}
+.pseo-section h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 1rem;
+  padding-left: 0.8rem;
+  border-left: 3px solid var(--primary-blue, #4a9eff);
+}
+.pseo-section p {
+  color: rgba(255, 255, 255, 0.78);
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
+/* FAQ */
+.pseo-faq {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+.pseo-faq h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 1.5rem;
+}
+.faq-item {
+  margin-bottom: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.03);
+  transition: border-color 0.3s ease;
+}
+.faq-item:hover {
+  border-color: var(--primary-blue, #4a9eff);
+}
+.faq-question {
+  width: 100%;
+  padding: 1.2rem 1.5rem;
+  background: transparent;
+  border: none;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 500;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: color 0.2s;
+}
+.faq-question::after {
+  content: '+';
+  font-size: 1.3rem;
+  color: var(--primary-blue, #4a9eff);
+  font-weight: 300;
+  flex-shrink: 0;
+  margin-left: 1rem;
+  transition: transform 0.3s ease;
+}
+.faq-item.active .faq-question::after {
+  content: '−';
+  transform: rotate(180deg);
+}
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease, padding 0.3s ease;
+}
+.faq-item.active .faq-answer {
+  max-height: 500px;
+  padding: 0 1.5rem 1.5rem;
+}
+.faq-answer p {
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.7;
+  font-size: 0.95rem;
+}
+
+/* CTA Box */
+.pseo-cta {
+  margin-top: 3rem;
+  padding: 2.5rem;
+  background: linear-gradient(135deg, rgba(74, 158, 255, 0.1) 0%, rgba(0, 206, 209, 0.1) 100%);
+  border: 1px solid rgba(74, 158, 255, 0.2);
+  border-radius: 16px;
+  text-align: center;
+}
+.pseo-cta h3 {
+  font-size: 1.3rem;
+  color: #ffffff;
+  margin-bottom: 1rem;
+}
+.pseo-cta p {
+  color: rgba(255, 255, 255, 0.75);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pseo-cta .btn {
+  display: inline-block;
+  padding: 0.8rem 1.8rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0.3rem;
+  transition: all 0.3s ease;
+}
+.pseo-cta .btn-primary {
+  background: linear-gradient(135deg, var(--primary-blue, #4a9eff), #00CED1);
+  color: #ffffff;
+}
+.pseo-cta .btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 20px rgba(74, 158, 255, 0.3);
+}
+.pseo-cta .btn-outline {
+  background: transparent;
+  border: 2px solid;
+}
+
+/* Sidebar */
+.pseo-sidebar {
+  position: sticky;
+  top: 100px;
+}
+.pseo-sidebar-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.pseo-sidebar-card h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+.pseo-sidebar-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.pseo-sidebar-card li {
+  margin-bottom: 0.5rem;
+}
+.pseo-sidebar-card a {
+  color: var(--primary-blue, #4a9eff);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.2s;
+  display: block;
+  padding: 0.3rem 0;
+}
+.pseo-sidebar-card a:hover {
+  color: #74b9ff;
+  text-decoration: underline;
+}
+.pseo-donate-card {
+  background: linear-gradient(135deg, rgba(74, 158, 255, 0.08) 0%, rgba(0, 206, 209, 0.08) 100%);
+  border-color: rgba(74, 158, 255, 0.15);
+}
+.pseo-donate-card p {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+.pseo-donate-card .btn-primary {
+  display: block;
+  padding: 0.7rem;
+  background: linear-gradient(135deg, var(--primary-blue, #4a9eff), #00CED1);
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+.pseo-donate-card .btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 20px rgba(74, 158, 255, 0.3);
+}
+
+/* Mobile Responsive */
+@media (max-width: 968px) {
+  .pseo-layout {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .pseo-sidebar {
+    position: static;
+  }
+  .pseo-content h1 {
+    font-size: 1.8rem;
+  }
+  .pseo-intro {
+    font-size: 1.05rem;
+  }
+}
+@media (max-width: 640px) {
+  .pseo-page {
+    padding: 2rem 0 3rem;
+  }
+  .pseo-page .container {
+    padding: 0 1rem;
+  }
+  .pseo-content h1 {
+    font-size: 1.5rem;
+  }
+  .pseo-cta {
+    padding: 1.5rem;
+  }
+  .faq-question {
+    padding: 1rem;
+    font-size: 0.9rem;
+  }
+}

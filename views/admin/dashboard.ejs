@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <%- include('../partials/head') %>
+</head>
+<body>
+  <div class="admin-shell">
+    <%- include('../partials/admin-sidebar') %>
+    <main class="admin-main">
+      <h1>Dashboard</h1>
+      <p style="color: #666;">Welcome back, <%= user.name %>.</p>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1rem; margin: 2rem 0;">
+        <div class="admin-card"><h3 style="color:#0D47A1; font-size: 2rem; margin:0;"><%= stats.publishedCount %></h3><p style="margin:0; color:#666;">Published blogs</p></div>
+        <div class="admin-card"><h3 style="color:#FB8C00; font-size: 2rem; margin:0;"><%= stats.draftCount %></h3><p style="margin:0; color:#666;">Drafts</p></div>
+        <div class="admin-card"><h3 style="color:#43A047; font-size: 2rem; margin:0;"><%= stats.unreadCount %></h3><p style="margin:0; color:#666;">Unread messages</p></div>
+        <div class="admin-card"><h3 style="color:#0D47A1; font-size: 2rem; margin:0;"><%= stats.contactCount %></h3><p style="margin:0; color:#666;">Total messages</p></div>
+        <div class="admin-card"><h3 style="color:#43A047; font-size: 2rem; margin:0;"><%= stats.subsCount %></h3><p style="margin:0; color:#666;">Subscribers</p></div>
+      </div>
+
+      <div class="admin-card">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+          <h2 style="margin:0;">Recent blog posts</h2>
+          <a href="/admin/blogs/new" class="btn btn-primary" style="padding: 0.5rem 1rem;">+ New post</a>
+        </div>
+        <% if (recentBlogs.length === 0) { %>
+          <p style="color:#666;">No posts yet. <a href="/admin/blogs/new">Create the first one &rarr;</a></p>
+        <% } else { %>
+          <table class="admin-table">
+            <thead><tr><th>Title</th><th>Status</th><th>Updated</th><th></th></tr></thead>
+            <tbody>
+            <% recentBlogs.forEach(b => { %>
+              <tr>
+                <td><%= b.title %></td>
+                <td><span class="badge <%= b.status %>"><%= b.status %></span></td>
+                <td><%= new Date(b.updatedAt).toLocaleString() %></td>
+                <td><a href="/admin/blogs/<%= b._id %>/edit">Edit</a></td>
+              </tr>
+            <% }) %>
+            </tbody>
+          </table>
+        <% } %>
+      </div>
+
+      <div class="admin-card">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+          <h2 style="margin:0;">Recent contact messages</h2>
+          <a href="/admin/submissions">View all &rarr;</a>
+        </div>
+        <% if (recentContacts.length === 0) { %>
+          <p style="color:#666;">No messages yet.</p>
+        <% } else { %>
+          <table class="admin-table">
+            <thead><tr><th>Name</th><th>Email</th><th>Subject</th><th>When</th></tr></thead>
+            <tbody>
+            <% recentContacts.forEach(m => { %>
+              <tr>
+                <td><%= m.name %></td>
+                <td><%= m.email %></td>
+                <td><%= m.subject || '—' %></td>
+                <td><%= new Date(m.createdAt).toLocaleString() %></td>
+              </tr>
+            <% }) %>
+            </tbody>
+          </table>
+        <% } %>
+      </div>
+    </main>
+  </div>
+</body>
+</html>

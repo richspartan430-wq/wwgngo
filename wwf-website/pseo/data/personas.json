@@ -1,0 +1,76 @@
+{
+  "personas": [
+    {
+      "name": "CSR Manager",
+      "slug": "csr-manager",
+      "description": "Corporate Social Responsibility managers in companies looking to fulfill CSR mandates through waste picker welfare partnerships.",
+      "pain_points": ["Finding credible NGO partners", "Measuring CSR impact", "Reporting to stakeholders", "Aligning CSR with Schedule VII"],
+      "solutions": ["Partner with registered NGOs", "Regular impact reports", "Site visits to project areas", "80G tax receipts"],
+      "motivations": ["Regulatory compliance", "Brand reputation", "Genuine social impact", "Employee engagement"]
+    },
+    {
+      "name": "Individual Donor",
+      "slug": "individual-donor",
+      "description": "Individuals looking to donate to a credible NGO working for marginalized communities, seeking tax benefits and transparency.",
+      "pain_points": ["Trust in NGOs", "Tax benefit documentation", "Knowing where money goes", "Finding local NGOs"],
+      "solutions": ["80G certified donations", "Annual report transparency", "Direct impact stories", "Bank transfer verification"],
+      "motivations": ["Tax savings", "Social responsibility", "Personal fulfillment", "Supporting education"]
+    },
+    {
+      "name": "Volunteer",
+      "slug": "volunteer",
+      "description": "Students, professionals, and retirees who want to contribute time and skills to community development and NGO programs.",
+      "pain_points": ["Finding meaningful opportunities", "Flexible scheduling", "Skill matching", "Impact visibility"],
+      "solutions": ["Multiple program areas to contribute", "Weekend and flexible options", "Teaching, healthcare, admin roles", "Direct community interaction"],
+      "motivations": ["Social service", "College credits", "Career development", "Personal satisfaction"]
+    },
+    {
+      "name": "Government Official",
+      "slug": "government-official",
+      "description": "District and municipal officials responsible for waste management, social welfare, and scheme implementation.",
+      "pain_points": ["Reaching marginalized communities", "Scheme awareness gaps", "Data on informal workers", "Meeting SBM targets"],
+      "solutions": ["Community mobilization support", "Awareness camp partnerships", "E-Shram registration drives", "Waste picker census assistance"],
+      "motivations": ["Scheme targets", "Inclusive governance", "Waste management goals", "Social equity"]
+    },
+    {
+      "name": "Social Worker",
+      "slug": "social-worker",
+      "description": "Professional social workers and community organizers working in urban poverty, child rights, or waste management sectors.",
+      "pain_points": ["Community access", "Resource constraints", "Multi-stakeholder coordination", "Sustaining engagement"],
+      "solutions": ["Community trust networks", "Collaborative programs", "Shared resources", "Joint advocacy"],
+      "motivations": ["Professional growth", "Community impact", "Knowledge sharing", "Systemic change"]
+    },
+    {
+      "name": "Student Researcher",
+      "slug": "student-researcher",
+      "description": "College and university students studying social work, environmental science, urban planning, or public health, seeking primary data.",
+      "pain_points": ["Primary data access", "Community entry barriers", "Ethics approvals", "Finding case studies"],
+      "solutions": ["Field visit facilitation", "Data sharing", "Interview access", "Internship opportunities"],
+      "motivations": ["Academic requirements", "Thesis research", "Career in development", "Understanding ground realities"]
+    },
+    {
+      "name": "Journalist",
+      "slug": "journalist",
+      "description": "Media professionals covering waste management, social welfare, urban poverty, or environmental stories.",
+      "pain_points": ["Finding authentic stories", "Community access", "Verification of claims", "Visual content"],
+      "solutions": ["Press briefings", "Field visits", "Impact data with sources", "Photo gallery access"],
+      "motivations": ["Compelling stories", "Public awareness", "Award-winning reporting", "Editorial mandates"]
+    },
+    {
+      "name": "Partner NGO",
+      "slug": "partner-ngo",
+      "description": "Other nonprofits working in complementary areas like education, health, livelihoods, or environment seeking collaboration.",
+      "pain_points": ["Geographic coverage gaps", "Specialized expertise", "Funding diversification", "Joint advocacy strength"],
+      "solutions": ["Collaborative programs", "Referral networks", "Joint proposals", "Knowledge exchange"],
+      "motivations": ["Expanded impact", "Resource pooling", "Learning exchange", "Collective advocacy"]
+    },
+    {
+      "name": "Waste Picker Family Member",
+      "slug": "waste-picker-family",
+      "description": "Members of waste picker families seeking information about available support, programs, rights, and government schemes.",
+      "pain_points": ["Lack of awareness about rights", "No access to healthcare", "Children out of school", "No identity documents"],
+      "solutions": ["Free education for children", "Monthly health camps", "Government scheme enrollment", "Identity card assistance"],
+      "motivations": ["Better life for children", "Health access", "Financial stability", "Dignity and recognition"]
+    }
+  ]
+}

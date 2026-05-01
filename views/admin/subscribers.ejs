@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <%- include('../partials/head') %>
+</head>
+<body>
+  <div class="admin-shell">
+    <%- include('../partials/admin-sidebar') %>
+    <main class="admin-main">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h1>Newsletter subscribers (<%= subs.length %>)</h1>
+        <a href="/admin/subscribers.csv" class="btn btn-primary">Export CSV</a>
+      </div>
+      <div class="admin-card" style="margin-top: 1.5rem;">
+        <% if (subs.length === 0) { %>
+          <p>No subscribers yet.</p>
+        <% } else { %>
+          <table class="admin-table">
+            <thead>
+              <tr><th>Email</th><th>Source</th><th>Subscribed</th><th>Status</th><th></th></tr>
+            </thead>
+            <tbody>
+              <% subs.forEach(s => { %>
+                <tr>
+                  <td><a href="mailto:<%= s.email %>"><%= s.email %></a></td>
+                  <td><%= s.source %></td>
+                  <td><%= new Date(s.createdAt).toLocaleString() %></td>
+                  <td><%= s.active ? 'Active' : 'Unsubscribed' %></td>
+                  <td>
+                    <form method="post" action="/admin/subscribers/<%= s._id %>/delete" style="display:inline;" onsubmit="return confirm('Remove this subscriber?');">
+                      <button type="submit" style="background:none; border:none; color:#C62828; cursor:pointer; padding:0; font: inherit;">Delete</button>
+                    </form>
+                  </td>
+                </tr>
+              <% }) %>
+            </tbody>
+          </table>
+        <% } %>
+      </div>
+    </main>
+  </div>
+</body>
+</html>

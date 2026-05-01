@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <%- include('../partials/head') %>
+</head>
+<body>
+  <div class="admin-shell">
+    <%- include('../partials/admin-sidebar') %>
+    <main class="admin-main">
+      <h1>Contact messages</h1>
+      <div class="admin-card" style="margin-top: 1.5rem;">
+        <% if (items.length === 0) { %>
+          <p>No messages yet.</p>
+        <% } else { %>
+          <table class="admin-table">
+            <thead>
+              <tr><th>When</th><th>From</th><th>Subject</th><th>Message</th><th style="width: 180px;">Actions</th></tr>
+            </thead>
+            <tbody>
+              <% items.forEach(m => { %>
+                <tr style="<%= m.read ? 'opacity:0.7;' : '' %>">
+                  <td><%= new Date(m.createdAt).toLocaleString() %></td>
+                  <td>
+                    <strong><%= m.name %></strong><br>
+                    <a href="mailto:<%= m.email %>"><%= m.email %></a><br>
+                    <% if (m.phone) { %><small><%= m.phone %></small><% } %>
+                  </td>
+                  <td><%= m.subject || '—' %></td>
+                  <td style="max-width: 400px; white-space: pre-wrap;"><%= m.message %></td>
+                  <td>
+                    <% if (!m.read) { %>
+                      <form method="post" action="/admin/submissions/<%= m._id %>/read" style="display:inline;">
+                        <button type="submit" style="background:none; border:none; color:#0D47A1; cursor:pointer; padding:0; font: inherit;">Mark read</button>
+                      </form>
+                      <br>
+                    <% } else { %>
+                      <small style="color:#43A047;">Read</small><br>
+                    <% } %>
+                    <form method="post" action="/admin/submissions/<%= m._id %>/delete" style="display:inline;" onsubmit="return confirm('Delete this message?');">
+                      <button type="submit" style="background:none; border:none; color:#C62828; cursor:pointer; padding:0; font: inherit;">Delete</button>
+                    </form>
+                  </td>
+                </tr>
+              <% }) %>
+            </tbody>
+          </table>
+        <% } %>
+      </div>
+    </main>
+  </div>
+</body>
+</html>

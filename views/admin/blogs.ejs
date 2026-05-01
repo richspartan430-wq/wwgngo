@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <%- include('../partials/head') %>
+</head>
+<body>
+  <div class="admin-shell">
+    <%- include('../partials/admin-sidebar') %>
+    <main class="admin-main">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h1>Blog posts</h1>
+        <a href="/admin/blogs/new" class="btn btn-primary">+ New post</a>
+      </div>
+
+      <div class="admin-card" style="margin-top: 1.5rem;">
+        <% if (blogs.length === 0) { %>
+          <p>No posts yet. <a href="/admin/blogs/new">Write your first post &rarr;</a></p>
+        <% } else { %>
+          <table class="admin-table">
+            <thead>
+              <tr><th>Title</th><th>Status</th><th>Tags</th><th>Updated</th><th style="width: 200px;">Actions</th></tr>
+            </thead>
+            <tbody>
+              <% blogs.forEach(b => { %>
+                <tr>
+                  <td>
+                    <strong><%= b.title %></strong><br>
+                    <small style="color:#666;">/blog/<%= b.slug %></small>
+                  </td>
+                  <td><span class="badge <%= b.status %>"><%= b.status %></span></td>
+                  <td><%= (b.tags || []).join(', ') %></td>
+                  <td><%= new Date(b.updatedAt).toLocaleString() %></td>
+                  <td>
+                    <a href="/admin/blogs/<%= b._id %>/edit">Edit</a>
+                    &middot;
+                    <% if (b.status === 'published') { %>
+                      <a href="/blog/<%= b.slug %>" target="_blank">View</a>
+                    <% } %>
+                    &middot;
+                    <form method="post" action="/admin/blogs/<%= b._id %>/delete" style="display:inline;" onsubmit="return confirm('Delete this post permanently?');">
+                      <button type="submit" style="background:none; border:none; color:#C62828; cursor:pointer; padding:0; font: inherit;">Delete</button>
+                    </form>
+                  </td>
+                </tr>
+              <% }) %>
+            </tbody>
+          </table>
+        <% } %>
+      </div>
+    </main>
+  </div>
+</body>
+</html>

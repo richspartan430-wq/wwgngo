@@ -1,0 +1,114 @@
+{
+  "locations": [
+    {
+      "name": "Shahdara",
+      "slug": "shahdara-delhi",
+      "city": "Delhi",
+      "state": "Delhi",
+      "type": "district",
+      "description": "Shahdara is the registered headquarters of the Waste Pickers Welfare Foundation, located in East Delhi. The area houses a significant population of waste pickers and migrant workers, particularly in colonies like East Nathu Colony.",
+      "waste_picker_population": "5000+",
+      "key_communities": ["East Nathu Colony", "Sunder Nagri"],
+      "programs_active": ["child-education", "healthcare", "community-development", "women-empowerment"]
+    },
+    {
+      "name": "Ghaziabad",
+      "slug": "ghaziabad",
+      "city": "Ghaziabad",
+      "state": "Uttar Pradesh",
+      "type": "city",
+      "description": "Ghaziabad is the primary operational area for the Waste Pickers Welfare Foundation, with the Bhowapur community being the flagship location. The city has a significant waste picker population working around Kaushambi, Sehani, and Bhopura areas.",
+      "waste_picker_population": "10000+",
+      "key_communities": ["Bhowapur", "Kaushambi", "Sehani", "Bhopura"],
+      "programs_active": ["child-education", "healthcare", "women-empowerment", "drug-abuse-prevention", "community-development", "skill-development"]
+    },
+    {
+      "name": "East Delhi",
+      "slug": "east-delhi",
+      "city": "Delhi",
+      "state": "Delhi",
+      "type": "district",
+      "description": "East Delhi is home to multiple waste picker settlements near commercial areas and the Ghazipur landfill — one of Delhi's largest dumpsites. Thousands of waste pickers work in and around the landfill, sorting recyclable materials.",
+      "waste_picker_population": "8000+",
+      "key_communities": ["Ghazipur landfill area", "Arjun Camp"],
+      "programs_active": ["healthcare", "community-development"]
+    },
+    {
+      "name": "Gurugram",
+      "slug": "gurugram-haryana",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "type": "city",
+      "description": "Gurugram, formerly Gurgaon, has a rapidly growing waste management challenge. The Foundation operates in Dundahera village, serving waste picker families who work in the city's commercial and residential waste streams.",
+      "waste_picker_population": "3000+",
+      "key_communities": ["Dundahera Village"],
+      "programs_active": ["community-development", "healthcare"]
+    },
+    {
+      "name": "South Delhi",
+      "slug": "south-delhi",
+      "city": "Delhi",
+      "state": "Delhi",
+      "type": "district",
+      "description": "The Foundation operates in Aya Nagar area of South Delhi, where waste picker families live in proximity to residential colonies. The area sees a mix of door-to-door waste collection and street-based waste picking.",
+      "waste_picker_population": "2000+",
+      "key_communities": ["Aya Nagar"],
+      "programs_active": ["community-development"]
+    },
+    {
+      "name": "North East Delhi",
+      "slug": "north-east-delhi",
+      "city": "Delhi",
+      "state": "Delhi",
+      "type": "district",
+      "description": "North East Delhi has dense waste picker settlements in Sunder Nagri and surrounding areas, where communities have been working in waste collection and segregation for generations.",
+      "waste_picker_population": "4000+",
+      "key_communities": ["Sunder Nagri"],
+      "programs_active": ["child-education", "community-development"]
+    },
+    {
+      "name": "Noida",
+      "slug": "noida",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "type": "city",
+      "description": "Noida, home to the Foundation's bank branch in Sector 63, has a growing waste management sector. Waste pickers serve the city's large IT parks, residential societies, and commercial hubs.",
+      "waste_picker_population": "5000+",
+      "key_communities": ["Sector 63 surroundings", "Nithari village area"],
+      "programs_active": ["community-development"]
+    },
+    {
+      "name": "Faridabad",
+      "slug": "faridabad-haryana",
+      "city": "Faridabad",
+      "state": "Haryana",
+      "type": "city",
+      "description": "Faridabad is an industrial city in Haryana with one of the largest waste generation rates in the NCR. Waste picker communities work across industrial areas, residential sectors, and near the NHPC Chowk area.",
+      "waste_picker_population": "4000+",
+      "key_communities": ["Industrial area waste picker settlements"],
+      "programs_active": []
+    },
+    {
+      "name": "Central Delhi",
+      "slug": "central-delhi",
+      "city": "Delhi",
+      "state": "Delhi",
+      "type": "district",
+      "description": "Central Delhi, including areas around Old Delhi and Chandni Chowk, has one of the highest densities of waste pickers working in commercial waste collection from markets, restaurants, and wholesale markets.",
+      "waste_picker_population": "6000+",
+      "key_communities": ["Old Delhi market area", "Sadar Bazar surroundings"],
+      "programs_active": []
+    },
+    {
+      "name": "Delhi NCR",
+      "slug": "delhi-ncr",
+      "city": "Delhi NCR",
+      "state": "Multi-state",
+      "type": "region",
+      "description": "The Delhi National Capital Region encompasses Delhi, parts of Haryana (Gurugram, Faridabad), Uttar Pradesh (Ghaziabad, Noida), and Rajasthan (Alwar). It generates over 15,000 tonnes of waste daily, employing an estimated 150,000-300,000 waste pickers across the region.",
+      "waste_picker_population": "200000+",
+      "key_communities": ["Multiple communities across NCR"],
+      "programs_active": ["child-education", "healthcare", "women-empowerment", "drug-abuse-prevention", "community-development", "skill-development"]
+    }
+  ]
+}

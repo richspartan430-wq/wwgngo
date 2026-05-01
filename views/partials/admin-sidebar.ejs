@@ -1,0 +1,15 @@
+<aside class="admin-sidebar">
+  <h2>WWF Admin</h2>
+  <nav>
+    <a href="/admin" class="<%= active === 'dashboard' ? 'active' : '' %>">Dashboard</a>
+    <a href="/admin/blogs" class="<%= active === 'blogs' ? 'active' : '' %>">Blogs</a>
+    <a href="/admin/blogs/new">+ New Post</a>
+    <a href="/admin/submissions" class="<%= active === 'submissions' ? 'active' : '' %>">Contact Messages</a>
+    <a href="/admin/subscribers" class="<%= active === 'subscribers' ? 'active' : '' %>">Subscribers</a>
+    <a href="/" target="_blank">View Site &rarr;</a>
+    <form method="post" action="/admin/logout" style="margin-top: 2rem;">
+      <button type="submit" class="btn" style="background: rgba(255,255,255,0.15); color: #fff; border: 1px solid rgba(255,255,255,0.3); width: 100%; cursor: pointer; padding: 0.6rem;">Log out</button>
+    </form>
+  </nav>
+  <p style="margin-top: 2rem; font-size: 0.85rem; opacity: 0.7;">Signed in as<br><strong><%= user.name %></strong><br><%= user.email %></p>
+</aside>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <%- include('../partials/head') %>
+</head>
+<body>
+  <div class="admin-shell">
+    <%- include('../partials/admin-sidebar') %>
+    <main class="admin-main">
+      <h1><%= blog ? 'Edit post' : 'New blog post' %></h1>
+
+      <% if (error) { %>
+        <div class="form-msg error"><%= error %></div>
+      <% } %>
+
+      <form method="post" action="<%= blog ? `/admin/blogs/${blog._id}/edit` : '/admin/blogs/new' %>" class="admin-form admin-card">
+        <label for="title">Title *</label>
+        <input id="title" name="title" type="text" required value="<%= blog ? blog.title : '' %>">
+
+        <label for="slug">Slug (URL) <small style="font-weight:normal; color:#666;">— leave blank to auto-generate from title</small></label>
+        <input id="slug" name="slug" type="text" value="<%= blog ? blog.slug : '' %>" placeholder="my-first-post">
+
+        <label for="excerpt">Excerpt <small style="font-weight:normal; color:#666;">(appears in listings and social cards)</small></label>
+        <textarea id="excerpt" name="excerpt" rows="3" style="min-height: 90px;"><%= blog ? blog.excerpt : '' %></textarea>
+
+        <label for="coverImage">Cover image URL <small style="font-weight:normal; color:#666;">e.g. /assets/community.png</small></label>
+        <input id="coverImage" name="coverImage" type="text" value="<%= blog ? blog.coverImage : '' %>" placeholder="/assets/community.png">
+
+        <label for="tags">Tags (comma-separated)</label>
+        <input id="tags" name="tags" type="text" value="<%= blog ? (blog.tags || []).join(', ') : '' %>" placeholder="education, women empowerment">
+
+        <label for="content">Content (HTML allowed) *</label>
+        <textarea id="content" name="content" required placeholder="<p>Your story starts here...</p>"><%= blog ? blog.content : '' %></textarea>
+        <small style="color:#666;">Tip: use &lt;p&gt;, &lt;h2&gt;, &lt;h3&gt;, &lt;ul&gt;, &lt;li&gt;, &lt;a&gt;, &lt;img&gt;, &lt;blockquote&gt; — plain HTML.</small>
+
+        <label for="status">Status</label>
+        <select id="status" name="status">
+          <option value="draft"<%= (!blog || blog.status === 'draft') ? ' selected' : '' %>>Draft</option>
+          <option value="published"<%= (blog && blog.status === 'published') ? ' selected' : '' %>>Published</option>
+        </select>
+
+        <div style="display: flex; gap: 1rem; margin-top: 1.5rem;">
+          <button type="submit" class="btn btn-primary" style="border: none; cursor: pointer;"><%= blog ? 'Save changes' : 'Create post' %></button>
+          <a href="/admin/blogs" class="btn btn-outline" style="border-color: #0D47A1; color: #0D47A1;">Cancel</a>
+          <% if (blog && blog.status === 'published') { %>
+            <a href="/blog/<%= blog.slug %>" target="_blank" class="btn" style="margin-left: auto; background:#eee; color:#333;">View live &rarr;</a>
+          <% } %>
+        </div>
+      </form>
+    </main>
+  </div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <%- include('../partials/head') %>
+</head>
+<body>
+  <div class="login-shell">
+    <div class="login-box">
+      <h1>Admin Login</h1>
+      <p class="sub">Waste Pickers Welfare Foundation</p>
+      <% if (error) { %>
+        <div class="form-msg error"><%= error %></div>
+      <% } %>
+      <form method="post" action="/admin/login" class="admin-form" autocomplete="on">
+        <label for="email">Email</label>
+        <input id="email" type="email" name="email" required autocomplete="username">
+        <label for="password">Password</label>
+        <input id="password" type="password" name="password" required autocomplete="current-password">
+        <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 1.5rem; border: none; cursor: pointer;">Sign in</button>
+      </form>
+      <p style="margin-top: 1.5rem; font-size: 0.85rem; color: #666;"><a href="/">&larr; Back to site</a></p>
+    </div>
+  </div>
+</body>
+</html>

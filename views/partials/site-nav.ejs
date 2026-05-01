@@ -1,0 +1,19 @@
+<nav class="navbar">
+    <div class="nav-container">
+        <a href="/" class="logo">Waste Pickers <span>Welfare Foundation</span></a>
+        <ul class="nav-links">
+            <li><a href="/">HOME</a></li>
+            <li><a href="/about.html">ABOUT US</a></li>
+            <li><a href="/programs.html">OUR WORK</a></li>
+            <li><a href="/gallery.html">GALLERY</a></li>
+            <li><a href="/blog" class="<%= (typeof activeNav !== 'undefined' && activeNav === 'blog') ? 'active' : '' %>">BLOG</a></li>
+            <li><a href="/annual-reports.html">ANNUAL REPORTS</a></li>
+            <li><a href="/get-involved.html">GET INVOLVED</a></li>
+            <li><a href="/contact.html">CONTACT</a></li>
+            <li><a href="/get-involved.html" class="btn-donate">Donate Now</a></li>
+        </ul>
+        <div class="menu-toggle" onclick="toggleMenu()">
+            <span></span><span></span><span></span>
+        </div>
+    </div>
+</nav>
